@@ -6,7 +6,10 @@ Inspired by the torchvision implementation: https://github.com/pytorch/vision/tr
 Trained on CIFAR-10 dataset: https://www.cs.toronto.edu/~kriz/cifar.html.
 
 ### Settings
-
+epochs: 50  
+learning rate: 0.1, divided by 10 when error plateaus  
+optimizer: SGD, weight decay 1e-4, momentum 0.9  
+batch size: 128  
 
 ### Results
 |   |         | ResNet-34 |  ResNet-50 |
