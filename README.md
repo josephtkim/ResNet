@@ -16,4 +16,4 @@ loss function: Cross entropy
 |   |         | ResNet-34 |  ResNet-50 |
 |---|------------------------|----------------|--------------------------|
 |   | # of Trainable Params  | 21.3M | 23.5M |
-|   | Test Accuracy | xx.x% | xx.x% |
+|   | Test Accuracy | 85.1% | xx.x% |
