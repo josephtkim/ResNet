@@ -1,7 +1,7 @@
 # ResNet Implementation in PyTorch
 Implementation of the ResNet model in PyTorch. Based on the architecture from the paper: https://arxiv.org/abs/1512.03385.  
 
-Inspired by the torchvision implementation: https://github.com/pytorch/vision/tree/main.
+Inspired by the torchvision implementation: https://github.com/pytorch/vision.
 
 Trained on CIFAR-10 dataset: https://www.cs.toronto.edu/~kriz/cifar.html.
 
