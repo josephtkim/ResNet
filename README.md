@@ -11,5 +11,5 @@ Trained on CIFAR-10 dataset: https://www.cs.toronto.edu/~kriz/cifar.html.
 ### Results
 |   |         | ResNet-34 |  ResNet-50 |
 |---|------------------------|----------------|--------------------------|
-|   | # of Trainable Params  | ...M | ...M |
+|   | # of Trainable Params  | 21.3M | 23.5M |
 |   | Test Accuracy | xx.x% | xx.x% |
