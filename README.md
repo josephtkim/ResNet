@@ -5,9 +5,6 @@ Inspired by the torchvision implementation: https://github.com/pytorch/vision/tr
 
 Trained on CIFAR-10 dataset: https://www.cs.toronto.edu/~kriz/cifar.html.
 
-![resnet](./resnet.png)
-
-
 ### Settings
 
 
