@@ -1,7 +1,18 @@
-# resnet-in-pytorch
+# ResNet Implementation in PyTorch
 Implementation of the ResNet model in PyTorch.
 
-TODO
-- Model implementation
-- Model training and evaluation
-- Polish repo and README
+Based on the architecture from the paper: https://arxiv.org/abs/1512.03385.
+
+Trained on CIFAR-10 dataset: https://www.cs.toronto.edu/~kriz/cifar.html.
+
+![resnet](./resnet.png)
+
+
+### Settings
+
+
+### Results
+|   |         | ResNet-34 |  ResNet-50 |
+|---|------------------------|----------------|--------------------------|
+|   | # of Trainable Params  | ...M | ...M |
+|   | Test Accuracy | xx.x% | xx.x% |
