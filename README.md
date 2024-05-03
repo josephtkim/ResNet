@@ -8,7 +8,7 @@ Trained on CIFAR-10 dataset: https://www.cs.toronto.edu/~kriz/cifar.html.
 ### Settings
 epochs: 50  
 batch size: 128  
-learning rate: 0.1 (divided by 10 when error plateaus)
+learning rate: 0.1 (divided by 10 when error plateaus)  
 optimizer: SGD (weight decay 1e-4, momentum 0.9)  
 loss function: Cross entropy
 
